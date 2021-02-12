@@ -1,4 +1,4 @@
-# Login-Register-Nodejs
+# User-details-API-Nodejs-Mysql
 A simple Login/Register application developed in Nodejs using Express.
 
 # Getting started
